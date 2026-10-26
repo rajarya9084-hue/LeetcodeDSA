@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajarya9084-hue/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rajarya9084-hue/LeetcodeDSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rajarya9084-hue/LeetcodeDSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
